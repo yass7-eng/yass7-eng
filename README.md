@@ -1,16 +1,15 @@
 ## Hi there 👋
-
-<!--
-**yass7-eng/yass7-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year student at Université Centrale studying Software Engineering and Information Systems . 
+I love building things, solving problems, and creating innovative solutions through code.
+🛠️ Technologies & Tools
+Languages:
+-Python
+-C/c++
+🔨Tools & Environment:
+-Visual Studio
+-Learning version control with Git & GitHub
+🌟 Beyond Code
+☕ Coffee & tea enthusiast
+🐱 Proud cat owner
+🎨 I love to draw
+🏕️ Camping adventures when I'm not coding
